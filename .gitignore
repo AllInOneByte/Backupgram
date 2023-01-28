@@ -1,0 +1,5 @@
+venv/
+.vscode/
+Backupgram.session
+config.py
+__pycache__/
